@@ -18,7 +18,7 @@ def using_shift(Array)
   
 end
 
-def using_unshift(Array, String)
+def shift_with_args(Array)
   
 end
 
