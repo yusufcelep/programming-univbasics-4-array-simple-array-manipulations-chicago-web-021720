@@ -26,3 +26,8 @@ def using_concat(Array, ArrayTwo)
   
 end
 
+def using_insert(Array, Element)
+  
+end
+
+def 
