@@ -31,3 +31,11 @@ def using_insert(Array, Element)
 end
 
 def using_uniq(Array)
+  
+end
+
+def 
+
+
+
+
