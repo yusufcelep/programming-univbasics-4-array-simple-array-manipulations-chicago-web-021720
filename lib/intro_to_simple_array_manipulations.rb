@@ -42,8 +42,6 @@ def using_delete(Array, String)
   
 end 
 
-def 
+def using_delete_at(Array, Integer)
 
-
-
-
+end
