@@ -23,11 +23,11 @@ def shift_with_args(array)
 end
 
 def using_concat(array, array_two)
-  all_my_fav.concat(array, array_two)
+#  all_my_fav.concat(array, array_two)
 end
 
 def using_insert(array, element)
-  array[4].insert(element)
+#  array[4].insert(element)
 end
 
 def using_uniq(array)
@@ -35,7 +35,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  
+  array.flatten
 end
 
 def using_delete(array, string)
