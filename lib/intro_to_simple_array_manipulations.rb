@@ -14,3 +14,6 @@ def pop_with_args(Array)
   
 end
 
+def using_shift(Array, String)
+  
+end
